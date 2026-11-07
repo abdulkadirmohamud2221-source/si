@@ -186,7 +186,7 @@ export const Home: React.FC = () => {
                 </div>
 
                 <div className="rounded-xl border border-amber-200 bg-amber-50 px-3 py-2 text-[10px] text-amber-900 font-medium">
-                  {cmsPage?.impactDisclaimer ?? 'Demo impact preview only — this is demonstration data, not audited institutional statistics.'}
+                  {cmsPage?.impactDisclaimer ?? 'Real impact preview only — this is demonstration data, not audited institutional statistics.'}
                 </div>
 
                 <div className="grid grid-cols-2 gap-4">
